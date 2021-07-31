@@ -1,3 +1,35 @@
+
+
 body{
-    background-color: #383939;
+    background-color: #333333;
+}
+.blockdad{
+    width: 1440;
+    height: 100%;
+    overflow: hidden;
+}
+.box1{
+    margin-top: 0px;
+    margin: 0px;
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    z-index:-1;
+}
+.hhh{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    cursor: pointer;
+    font-family: 'Comfortaa', cursive;   
+}
+.photobox{
+    position: absolute;
+    right:0%;
+    top: 0%;
+}
+.box2{
+    position: absolute;
+    top: 65%;
+    left: 52%;
 }
